@@ -54,14 +54,14 @@
 
 ---
 
+### ⚡ Fun Fact
+I enjoy solving complex problems and turning ideas into real-world applications 🚀
+
 ### 📫 Contact Info
 - Email: armansaleem007@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/arman-saleem-825b7111b  
 
 ---
-
-### ⚡ Fun Fact
-I enjoy solving complex problems and turning ideas into real-world applications 🚀
 <p align="left">
 <a href="https://www.linkedin.com/in/arman-saleem-825b7111b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arman-saleem-825b7111b" height="30" width="40" /></a>
 </p>
